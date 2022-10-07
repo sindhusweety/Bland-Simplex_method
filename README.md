@@ -54,4 +54,5 @@ UNBOUNDED LP
 1  0.0  0.0  1.0 -6.0  1.0   6.0 -1.0   19.98  x_4
 2  0.0  1.0  1.0 -1.0  0.0   1.0  0.0    5.00  x_1
 ```
-LICENSE
+[LICENSE] (https://github.com/sindhusweety/Bland-Simplex_method/blob/main/LICENSE.md)
+MIT
