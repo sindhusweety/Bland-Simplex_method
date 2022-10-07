@@ -3,13 +3,14 @@
 
 INPUT:
 
-***self.equations = ['x_1 + x_2 <= 6', 'x_1 - x_2 <= 0']
+```self.equations = ['x_1 + x_2 <= 6', 'x_1 - x_2 <= 0']
 self.obj_atrributes = [36, 30, -3, -4]       #[5, 2] #an array of objective function coefficients----------5x_1 + 2x_2
 self.decision_variable_rhs=[5, 10]   #[6, 0] # right-hand side entries
 self.decision_variable_lhs = [[1, 1, -1, 0], [6, 5, 0, -1]] #[[1, 1],[1, -1 ]] #coefficients for the left-hand-sides of the constraints
 self.no_equations = len(self.decision_variable_lhs)
 self.no_variables = len(self.decision_variable_lhs[0])
-self.lowbound = "x1, x2 >= 0"***
+self.lowbound = "x1, x2 >= 0"
+```
 
 
 
