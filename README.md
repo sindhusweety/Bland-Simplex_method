@@ -58,4 +58,4 @@ UNBOUNDED LP
 
 [LICENSE](https://github.com/sindhusweety/Bland-Simplex_method/blob/main/LICENSE.md)
 
-MIT © [Sindhukumari Parameswaran](https://github.com/sindhusweety.com) 
+MIT © [Sindhukumari Parameswaran](https://github.com/sindhusweety) 
